@@ -1,0 +1,15 @@
+{
+	"appname": "November Webinar",
+	"scope": "FullAccess",
+	"clientid": "C9CB297C-9A11-4391-9DF2-F586150B8ED9",
+	"buyerid": "buyer",
+	"catalogid": "buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
